@@ -56,7 +56,7 @@ import {
       icon: backend,
     },
     {
-      title: "Data Structures and Algorithms",
+      title: "Data Structures & Algorithms",
       icon: creator,
     },
     {
