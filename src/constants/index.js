@@ -59,7 +59,26 @@ import {
       title: "Data Structures and Algorithms",
       icon: creator,
     },
-    
+    {
+      title: "DBMS",
+      icon: creator,
+    },
+    {
+      title: "OS",
+      icon: creator,
+    },
+    {
+      title: "Computer Networks",
+      icon: creator,
+    },
+    {
+      title: "OOPS",
+      icon: creator,
+    },
+    {
+      title: "Data Analysis",
+      icon: creator,
+    },
     
   ];
   
